@@ -7,6 +7,7 @@
  * number stored in the variable n
  * Return: Always 0 (Success)
  */
+int main(void)
 {
 	int n;
 
